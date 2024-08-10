@@ -3,7 +3,6 @@ To study and implement C++ decision making statements
 
 ## Theory:
 
-Switch Case Statement
 A switch case statement is a control flow structure that allows you to execute different code blocks based on the value of an expression. It's often used as an alternative to multiple if-else statements when you have several possible values for an expression and you want to perform different actions for each value.
 
 ## Algorithm:
