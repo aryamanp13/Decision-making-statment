@@ -1,9 +1,10 @@
 # Aim:
 To study and implement C++ decision making statements
 
-##Theory:
+## Theory:
 
-##Algorithm:
+## Algorithm:
+
 1.Start
 
 2.Declare variables:
