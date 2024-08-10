@@ -2,10 +2,11 @@
 To study and implement C++ decision making statements
 
 ## Theory:
+If-else:An if-else statement is a fundamental control flow structure in programming that allows you to execute different code blocks based on whether a specified condition is true or false.
 
-A switch case statement is a control flow structure that allows you to execute different code blocks based on the value of an expression. It's often used as an alternative to multiple if-else statements when you have several possible values for an expression and you want to perform different actions for each value.
+Switch-case:A switch case statement is a control flow structure that allows you to execute different code blocks based on the value of an expression. It's often used as an alternative to multiple if-else statements when you have several possible values for an expression and you want to perform different actions for each value.
 
-## Algorithm:
+## Algorithm(for 5d):
 
 1.Start
 
